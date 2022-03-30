@@ -5,6 +5,7 @@ description: 'This resource contains lecture notes on uncertainty: certainty equ
   invariant distributions, equilibrium, inequality, and other features and extensions.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-453-macroeconomic-theory-iii-fall-2006/dad20b26467af3522a14053c433f1688_lec2.pdf
 file_type: application/pdf
+parent_uid: 0c99fa32-b6b0-9d31-9cbb-4f77c43b326b
 resourcetype: Document
 title: lec2.pdf
 uid: dad20b26-467a-f352-2a14-053c433f1688
